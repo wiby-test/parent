@@ -1,0 +1,16 @@
+{
+  "name": "@wiby-test/parent",
+  "version": "1.0.0",
+  "description": "A package used as a dependency in some @wiby-test repositories",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiby-test/parent.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "wiby": "*"
+  }
+}
